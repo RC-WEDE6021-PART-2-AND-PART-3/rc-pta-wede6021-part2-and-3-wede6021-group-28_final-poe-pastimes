@@ -252,7 +252,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## A YouTube video presentation showcasing the website application of Pastimes Online Clothing Store
 
-https://youtu.be/eXVb8InFZ7A
+https://youtu.be/JES7L_ZXfxA
 
 ---
 
